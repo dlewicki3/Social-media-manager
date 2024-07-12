@@ -1,0 +1,71 @@
+.o1
+{
+background-color: green;
+    height: 957px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.k1
+{
+    background-color:#eeeeee ;
+    height: 700px;
+    width: 100%;
+   display: flex;
+justify-content: center;
+   flex-direction: column;
+   align-items: center;
+
+}
+.content
+{
+    width: 100%;
+    max-width: 1200px;
+    font-family: "Bodoni Moda", serif;
+/* word-wrap: break-word; */
+font-size: 120px;
+font-weight: 500;
+}
+.under-contnet
+{
+    width: 100%;
+    max-width: 1200px;
+    height: 100px;
+
+    display: flex;
+    justify-content: right;
+}
+.blabla-txt-div
+{
+    text-align: right;
+    display: flex;
+    align-items: flex-end;
+    font-size: 20px;
+}
+@media only screen and (max-width: 900px) {
+    .k1
+    {
+        width: 95%;
+        height: 850px;
+    }
+
+
+}
+@media only screen and (max-width: 750px) {
+    .content
+    {
+    
+        font-size: 90px;
+    }
+
+
+}
+@media only screen and (max-width: 550px) {
+.content
+{
+    font-size: 60px;
+}
+
+
+}
