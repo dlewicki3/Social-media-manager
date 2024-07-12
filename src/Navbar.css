@@ -45,15 +45,6 @@
 
 
 }
-.link
-{
-  
-   color: black;
-    font-size: 14px;
-    font-weight: 500;
-    font-family: "Sofia Sans", sans-serif;
-
-}
 .button1
 {
     width: 20%;
@@ -85,7 +76,11 @@ font-family: "Bodoni Moda", serif;
 .logo
 {
     width: 50%;
+    font-size:17px ;
 }
-
+.button1
+{
+    font-size: 15px;
+}
 
 }
