@@ -6,7 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 1px solid black;
+
 }
 .k1
 {
@@ -33,7 +33,6 @@ font-weight: 500;
     width: 100%;
     max-width: 1200px;
     height: 100px;
-
     display: flex;
     justify-content: right;
 }
@@ -78,6 +77,9 @@ font-weight: 500;
 {
     font-size: 60px;
 }
-
+.blabla-txt-div
+{
+    font-size: 16px;
+}
 
 }

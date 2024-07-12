@@ -1,7 +1,115 @@
 .o2
 {
-    height: 957px;
+    height:900px;
     width: 100%;
     background-color:#eeeeee ;
+display: flex;
+justify-content: center;
+align-items: center;
 
+}
+.k2
+{
+    height: 100%;
+    width: 100%;
+    max-width: 1200px;
+display: flex;
+justify-content: center;
+
+}
+.left2
+{
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    
+}
+.right2
+{
+
+    width: 50%;
+    height: 85%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: column;
+    padding-bottom: 20px;
+   
+}
+.foto
+{
+    width:80%;
+    height: 100%;
+
+   
+}
+.top2
+{
+    width: 100%;
+    font-size: 120px;
+ 
+text-align: left;
+}
+.bottom2
+{
+text-align: right;
+width: 70%;
+font-size: 20px;
+
+}
+@media only screen and (max-width: 900px) {
+.o2
+{
+    height: 800px;
+}
+.k2
+{
+    width: 95%;
+}
+
+}
+@media only screen and (max-width: 830px) {
+.top2
+{
+    font-size: 90px;
+}
+.foto{
+
+    width:100%;
+}
+.k2
+{
+    align-items: center;
+}
+}
+@media only screen and (max-width: 650px) {
+
+.k2
+{
+    flex-direction: column;
+}
+.left2
+{
+    width: 100%;
+    height: 50%;
+}
+.right2
+{
+    width: 100%;
+    height: 50%;
+}
+.o2
+{
+    height: 950px;
+}
+.bottom2
+{
+    font-size: 16px;
+}
+.top2
+{
+    font-size: 70px;
+}
 }
