@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Social-media-manager/static/css/main.a0d2c5c6.css",
-    "main.js": "/Social-media-manager/static/js/main.225cb87f.js",
+    "main.css": "/Social-media-manager/static/css/main.ef88f752.css",
+    "main.js": "/Social-media-manager/static/js/main.7af18a86.js",
     "static/js/453.eb3c8b65.chunk.js": "/Social-media-manager/static/js/453.eb3c8b65.chunk.js",
+    "static/media/Pro.svg": "/Social-media-manager/static/media/Pro.e620f3efd24808f80b9db98f048e8f93.svg",
     "index.html": "/Social-media-manager/index.html",
-    "main.a0d2c5c6.css.map": "/Social-media-manager/static/css/main.a0d2c5c6.css.map",
-    "main.225cb87f.js.map": "/Social-media-manager/static/js/main.225cb87f.js.map",
+    "main.ef88f752.css.map": "/Social-media-manager/static/css/main.ef88f752.css.map",
+    "main.7af18a86.js.map": "/Social-media-manager/static/js/main.7af18a86.js.map",
     "453.eb3c8b65.chunk.js.map": "/Social-media-manager/static/js/453.eb3c8b65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d2c5c6.css",
-    "static/js/main.225cb87f.js"
+    "static/css/main.ef88f752.css",
+    "static/js/main.7af18a86.js"
   ]
 }
