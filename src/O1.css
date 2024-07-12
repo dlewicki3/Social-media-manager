@@ -6,6 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-bottom: 1px solid black;
 }
 .k1
 {
@@ -48,6 +49,7 @@ font-weight: 500;
     {
         width: 95%;
         height: 850px;
+       
     }
 
 
@@ -57,8 +59,18 @@ font-weight: 500;
     {
     
         font-size: 90px;
-    }
 
+    }
+    .o1
+    {
+        height: 800px;
+
+    }
+.k1
+{
+
+    height: 800px;
+}
 
 }
 @media only screen and (max-width: 550px) {
