@@ -23,24 +23,29 @@ justify-content: center;
 {
     width: 100%;
     max-width: 1200px;
-    font-family: "Bodoni Moda", serif;
 /* word-wrap: break-word; */
-font-size: 120px;
-font-weight: 500;
 }
-.under-contnet
+.big-txt1,
+.big-txt2,
+.big-txt3
+{
+    font-size: 120px;
+    font-weight: 500;
+}
+.under-content
 {
     width: 100%;
     max-width: 1200px;
     height: 100px;
     display: flex;
     justify-content: right;
+
 }
 .blabla-txt-div
 {
     text-align: right;
-    display: flex;
-    align-items: flex-end;
+  line-height: 1;
+
     font-size: 20px;
 }
 @media only screen and (max-width: 900px) {
@@ -65,6 +70,12 @@ font-weight: 500;
         height: 800px;
 
     }
+    .big-txt1,
+.big-txt2,
+.big-txt3
+{
+    font-size: 90px;
+}
 .k1
 {
 
@@ -73,11 +84,15 @@ font-weight: 500;
 
 }
 @media only screen and (max-width: 550px) {
-.content
+    .big-txt1,
+.big-txt2,
+.big-txt3
 {
-    font-size: 60px;
+    font-size: 50px;
 }
-.blabla-txt-div
+.small-txt1,
+.small-txt2,
+.small-txt3
 {
     font-size: 16px;
 }
