@@ -7,32 +7,32 @@ function O1() {
     gsap.fromTo(
       ".big-txt1", 
       { y: 50, opacity: 0 }, 
-      { y: 0, opacity: 1, duration: 0.5, delay: 0.1 }
+      { y: 0, opacity: 1, duration: 0.4, delay: 0.1 }
     );
     gsap.fromTo(
       ".big-txt2", 
       { y: 50, opacity: 0 }, 
-      { y: 0, opacity: 1, duration: 0.5, delay: 0.3 }
+      { y: 0, opacity: 1, duration: 0.4, delay: 0.2 }
     );
     gsap.fromTo(
       ".big-txt3", 
       { y: 50, opacity: 0 }, 
-      { y: 0, opacity: 1, duration: 0.5, delay: 0.5 }
+      { y: 0, opacity: 1, duration: 0.4, delay: 0.4 }
     );
     gsap.fromTo(
       ".small-txt1", 
       { y: 50, opacity: 0 }, 
-      { y: 0, opacity: 1, duration: 0.5, delay: 0.7 }
+      { y: 0, opacity: 1, duration: 0.4, delay: 0.5 }
     );
     gsap.fromTo(
       ".small-txt2", 
       { y: 50, opacity: 0 }, 
-      { y: 0, opacity: 1, duration: 0.5, delay: 0.9 }
+      { y: 0, opacity: 1, duration: 0.4, delay: 0.6 }
     );
     gsap.fromTo(
       ".small-txt3", 
       { y: 50, opacity: 0 }, 
-      { y: 0, opacity: 1, duration: 0.5, delay: 1.1 }
+      { y: 0, opacity: 1, duration: 0.4, delay: 0.7 }
     );
   }, []);
 
