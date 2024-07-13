@@ -1,0 +1,141 @@
+.o4,
+.o5,
+.o6,
+.o7,
+.o8,
+.o9
+{
+width: 100%;
+height: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.k4,
+.k5,
+.k6,
+.k7,
+.k8,
+.k9
+{
+width: 100%;
+max-width: 1200px;
+height: 100%;
+display: flex;
+align-items: center;
+
+}
+
+.left4,
+.left5,
+.left6,
+.left7,
+.left8,
+.left9
+{
+    width: 50%;
+    height: 100%;
+
+    padding-top: 50px;
+}
+.right4,
+.right5,
+.right6,
+.right7,
+.right8,
+.right9
+{
+   
+    height: 100%;
+    width: 50%;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.p1-txt
+{
+    font-size: 50px;
+    position: sticky;
+    top: 50px;
+    font-weight: 500;
+}
+.p2-txt
+{
+    font-size: 17px;
+    width:70%;
+    font-weight: 500;
+}
+@media only screen and (max-width: 900px) {
+.k4,
+.k5,
+.k6,
+.k7,
+.k8,
+.k9
+{
+
+    width: 95%;
+}
+
+
+
+
+}
+@media only screen and (max-width: 780px) {
+    .k4,
+    .k5,
+    .k6,
+    .k7,
+    .k8,
+    .k9
+
+{
+    justify-content: space-between;
+    flex-direction: column;
+}
+.p1-txt
+{
+    position:static;
+}
+.o4,
+.o5,
+.o6,
+.o7,
+.o8,
+.o9
+{
+    height: 500px;
+}
+.left4,
+.left5,
+.left6,
+.left7,
+.left8,
+.left9
+{
+    width: 100%;
+    
+}
+.right4,
+.right5,
+.right6,
+.right7,
+.right8,
+.right9
+{
+    width: 100%;
+
+    padding: 0px;
+}
+.p1-txt
+{
+    font-size: 40px;
+    word-wrap: break-word;
+}
+.p2-txt
+{
+    width: 100%;
+}
+    }
