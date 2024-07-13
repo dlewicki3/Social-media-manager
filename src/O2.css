@@ -58,11 +58,12 @@ text-align: right;
 width: 70%;
 font-size: 20px;
 
+
 }
 @media only screen and (max-width: 900px) {
 .o2
 {
-    height: 750px;
+    height: 850px;
 }
 .k2
 {
@@ -116,7 +117,7 @@ font-size: 20px;
 }
 .top2
 {
-    font-size: 80px;
+    font-size: 60px;
   
 }
 

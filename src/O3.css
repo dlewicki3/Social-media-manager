@@ -1,0 +1,130 @@
+.o3
+{
+    width: 100%;
+    height: 957px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.k3
+{
+    width: 100%;
+    max-width: 1200px;
+
+    height: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.top3
+{
+
+width: 100%;
+
+display: flex;
+align-items: flex-start;
+line-height: 1.4;
+
+}
+.bottom3
+{
+    width: 100%;
+
+ height: 50%;
+ display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.bottom3-txt
+{
+    width: 40%;
+  font-size: 16px;
+  text-align: right;
+   
+}
+.skills-txt
+{
+    font-size: 120px;
+
+}
+@media only screen and (max-width: 900px) {
+.o3
+{
+    height: 800px;
+   
+
+}
+.k3
+{
+    width: 95%;
+}
+
+} 
+@media only screen and (max-width: 830px) {
+    .skills-txt
+    {
+        font-size: 90px;
+    
+    }
+
+.k3
+{
+    height: 80%;
+}
+}
+@media only screen and (max-width: 650px) {
+    .skills-txt
+    {
+        font-size: 60px;
+    
+    }
+    .bottom3-txt
+    {
+        width: 70%;
+    }
+    .bottom3-txt
+    {
+        font-size: 16px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .skills
+{
+text-align: right;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+}
+.skills-txt1,
+.skills-txt2,
+.skills-txt3,
+.skills-txt4,
+.skills-txt5
+{
+    font-size: 20px;
+} */

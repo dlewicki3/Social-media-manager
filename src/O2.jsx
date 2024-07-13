@@ -12,7 +12,7 @@ function O2() {
         <div className="right2">
             <div className="top2">ABOUT ME</div>
             <div className="bottom2">
-            Witam, jestem Dominik Lewicki, specjalizuję się w tworzeniu stron internetowych i zarządzaniu mediami społecznościowymi. Sztuczna inteligencja jest kluczowym elementem mojej pracy.
+            Witam, nazywam się Dominik Lewicki, specjalizuję się w tworzeniu stron internetowych i zarządzaniu mediami społecznościowymi. Sztuczna inteligencja jest kluczowym elementem mojej pracy.
             </div>
         </div>
     </div>
