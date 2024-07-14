@@ -48,7 +48,12 @@ align-items: center;
  font-size: 25px;
  font-weight: 600;
 }
-.small-txt100
+.small-txt100,
+.small-txt1001,
+.small-txt10011,
+.small-txt100111,
+.small-txt1001111,
+.small-txt10011111
 {
  font-size: 18px;
  font-weight: 600;
