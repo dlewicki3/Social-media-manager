@@ -107,7 +107,11 @@ align-items: center;
     flex-direction: column;
 }
 .p1-txt,
-.p11-txt
+.p11-txt,
+.p111-txt,
+.p1111-txt,
+.p11111-txt,
+.p111111-txt
 {
     position:static;
 }
