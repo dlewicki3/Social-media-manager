@@ -54,19 +54,30 @@ align-items: center;
     justify-content: flex-end;
     align-items: flex-end;
 }
-.p1-txt
+.p1-txt,
+.p11-txt,
+.p111-txt,
+.p1111-txt,
+.p11111-txt,
+.p111111-txt
 {
     font-size: 50px;
     position: sticky;
     top: 50px;
     font-weight: 500;
 }
-.p2-txt
+.p2-txt,
+.p22-txt,
+.p222-txt,
+.p2222-txt,
+.p22222-txt,
+.p222222-txt
 {
     font-size: 17px;
     width:70%;
     font-weight: 500;
 }
+
 @media only screen and (max-width: 900px) {
 .k4,
 .k5,
@@ -95,7 +106,8 @@ align-items: center;
     justify-content: space-between;
     flex-direction: column;
 }
-.p1-txt
+.p1-txt,
+.p11-txt
 {
     position:static;
 }
@@ -129,12 +141,22 @@ align-items: center;
 
     padding: 0px;
 }
-.p1-txt
+.p1-txt,
+.p11-txt,
+.p111-txt,
+.p1111-txt,
+.p11111-txt,
+.p111111-txt
 {
     font-size: 40px;
     word-wrap: break-word;
 }
-.p2-txt
+.p2-txt,
+.p22-txt,
+.p222-txt,
+.p2222-txt,
+.p22222-txt,
+.p222222-txt
 {
     width: 100%;
 }
