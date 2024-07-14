@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Social-media-manager/static/css/main.85a38d51.css",
-    "main.js": "/Social-media-manager/static/js/main.ecfce85c.js",
+    "main.css": "/Social-media-manager/static/css/main.606d2d0c.css",
+    "main.js": "/Social-media-manager/static/js/main.4ae0d721.js",
     "static/js/453.eb3c8b65.chunk.js": "/Social-media-manager/static/js/453.eb3c8b65.chunk.js",
+    "static/media/Rece.svg": "/Social-media-manager/static/media/Rece.cf9a1bd0ffeea1a4e19db010c19fbffc.svg",
     "static/media/Pro.svg": "/Social-media-manager/static/media/Pro.e620f3efd24808f80b9db98f048e8f93.svg",
     "index.html": "/Social-media-manager/index.html",
-    "main.85a38d51.css.map": "/Social-media-manager/static/css/main.85a38d51.css.map",
-    "main.ecfce85c.js.map": "/Social-media-manager/static/js/main.ecfce85c.js.map",
+    "main.606d2d0c.css.map": "/Social-media-manager/static/css/main.606d2d0c.css.map",
+    "main.4ae0d721.js.map": "/Social-media-manager/static/js/main.4ae0d721.js.map",
     "453.eb3c8b65.chunk.js.map": "/Social-media-manager/static/js/453.eb3c8b65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85a38d51.css",
-    "static/js/main.ecfce85c.js"
+    "static/css/main.606d2d0c.css",
+    "static/js/main.4ae0d721.js"
   ]
 }
