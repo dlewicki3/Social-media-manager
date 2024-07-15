@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Social-media-manager/static/css/main.06810f83.css",
-    "main.js": "/Social-media-manager/static/js/main.d8e00645.js",
+    "main.css": "/Social-media-manager/static/css/main.4d62508b.css",
+    "main.js": "/Social-media-manager/static/js/main.bd129943.js",
     "static/js/453.eb3c8b65.chunk.js": "/Social-media-manager/static/js/453.eb3c8b65.chunk.js",
-    "static/media/Rece.svg": "/Social-media-manager/static/media/Rece.20c5ba88f862a0cea7cea9266fad236c.svg",
+    "static/media/Me.svg": "/Social-media-manager/static/media/Me.e4a21422ce44d4f35e73d34beb72d686.svg",
+    "static/media/Rece.svg": "/Social-media-manager/static/media/Rece.cf9a1bd0ffeea1a4e19db010c19fbffc.svg",
     "static/media/Pro.svg": "/Social-media-manager/static/media/Pro.e620f3efd24808f80b9db98f048e8f93.svg",
     "index.html": "/Social-media-manager/index.html",
-    "main.06810f83.css.map": "/Social-media-manager/static/css/main.06810f83.css.map",
-    "main.d8e00645.js.map": "/Social-media-manager/static/js/main.d8e00645.js.map",
+    "main.4d62508b.css.map": "/Social-media-manager/static/css/main.4d62508b.css.map",
+    "main.bd129943.js.map": "/Social-media-manager/static/js/main.bd129943.js.map",
     "453.eb3c8b65.chunk.js.map": "/Social-media-manager/static/js/453.eb3c8b65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06810f83.css",
-    "static/js/main.d8e00645.js"
+    "static/css/main.4d62508b.css",
+    "static/js/main.bd129943.js"
   ]
 }
