@@ -5,6 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
 .k10
 {
@@ -15,6 +16,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 .left10
 {
@@ -22,6 +24,7 @@
     height: 100%;
     display: flex;
     align-items: center;
+    background-color: black;
 }
 .right10
 {
@@ -42,11 +45,13 @@ align-items: center;
 .big-txt10
 {
     font-size: 90px;
+    color: white;
 }
 .small-txt10
 {
  font-size: 25px;
  font-weight: 600;
+ color: white;
 }
 .small-txt100,
 .small-txt1001,
@@ -57,6 +62,7 @@ align-items: center;
 {
  font-size: 18px;
  font-weight: 600;
+ color: white;
 }
 .na-txt10
 {
@@ -65,7 +71,7 @@ align-items: center;
 @media only screen and (max-width: 900px) {
     .o10
     {
-        height: 800px;
+        height: 1550px;
     }
 .k10
 {
@@ -90,7 +96,7 @@ align-items: center;
 }
 
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 850px) {
     .big-txt10
     {
         font-size: 60px;
@@ -106,7 +112,18 @@ align-items: center;
      font-weight: 600;
     }
 
+    .o10
+    {
+        height: 1250px;
+    }
 
 
+}
+@media only screen and (max-width: 550px) {
+
+    .o10
+    {
+        height: 1150px;
+    }
 
 }
