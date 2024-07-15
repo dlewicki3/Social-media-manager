@@ -1,4 +1,129 @@
 .o11
 {
     width: 100%;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.k11
+{
+    height: 80%;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    border-top: 1px solid black;
+
+}
+.left11
+{
+    width: 50%;
+    height: 100%;
+border-right: 1px solid black;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+.right11
+{
+    height: 100%;
+    width: 50%;
+
+}
+.me-foto
+{
+    width: 100%;
+    height: 100%;
+
+}
+.big-txt11
+{
+    font-size: 40px;
+    font-weight: 500;
+}
+.btn-11
+{
+width: 400px;
+height: 60px;
+background-color: transparent;
+border: 1px solid black;
+font-size: 20px;
+font-weight: 600;
+cursor: pointer;
+}
+.btn-11:hover
+{
+    transition: 0.2s ease;
+ color:rgb(66, 57, 57) ;
+}
+@media only screen and (max-width: 900px) {
+.k11{
+    width: 95%;
+}
+.right11
+{
+
+    display: flex;
+    align-items: center;
+
+}
+.me-foto
+{
+ 
+    height: 70%;
+}
+.btn-11
+{
+    width: 300px;
+}
+.big-txt11
+{
+    font-size: 35px;
+    word-break: break-all;
+}
+
+
+}
+@media only screen and (max-width: 780px) {
+    .o11
+{
+    height: 1100px;
+
+}
+.k11
+{
+
+    flex-direction: column-reverse;
+    height: 100%;
+    border: 0px;
+}
+
+.left11
+{
+    height: 40%;
+    width: 100%;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 0px;
+
+
+
+}
+.right11
+{
+    height: 60%;
+    width: 100%;
+    padding-bottom: 50px;
+ 
+}
+.me-foto
+{
+    height: 100%;
+    width: 100%;
+}
+.big-txt11
+{
+    font-size: 30px;
+}
 }

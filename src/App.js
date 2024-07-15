@@ -10,6 +10,7 @@ import O8 from "./O8";
 import O9 from "./O9";
 import O10 from "./O10";
 import O11 from "./O11";
+import O12 from "./O12";
 import Navbar from "./Navbar";
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
 <O9/>
 <O10/>
 <O11/>
+<O12/>
 
     </div>
   );
