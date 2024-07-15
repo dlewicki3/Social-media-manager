@@ -1,6 +1,7 @@
 import React from 'react'
 import "./O12.css";
 
+
 function O12() {
   return (
 <div className="o12">

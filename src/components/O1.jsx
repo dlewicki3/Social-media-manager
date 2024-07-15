@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react';
 import { gsap } from 'gsap';
-import "./O1.css";
+import "../components/O10.css";
+
+import { Link } from "react-router-dom";
 
 function O1() {
   useEffect(() => {
@@ -39,6 +41,7 @@ function O1() {
   return (
     <div className="o1">
       <div className="k1">
+        <Link to = "/podstrona">Chuj do dupy</Link>
         <div className="content">
           <p className='big-txt1'>SOCIAL MEDIA</p>
           <p className='big-txt2'>MANAGER</p>

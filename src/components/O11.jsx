@@ -3,6 +3,7 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import "./O11.css";
 import Me from "./Me.svg";
+import {Navigate} from "react-router-dom";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -46,6 +47,8 @@ const O11 = () => {
 
   return (
     <div className="o11">
+
+      {/* <Link to = "/o11">GO TO COS TAM COS TAM</Link> */}
       <div className="k11">
         <div className="left11">
           <p className='big-txt11'>
@@ -54,7 +57,9 @@ const O11 = () => {
             stały się rzeczywistością
           </p>
           <br />
-          <button className='btn-11'>Popracujmy razem!</button>
+          <button className='btn-11'
+         
+          >Popracujmy razem!</button>
         </div>
         <div className="right11">
           <img className='me-foto' src={Me} alt="Me"></img>
