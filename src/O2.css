@@ -15,14 +15,11 @@ align-items: center;
     max-width: 1200px;
 display: flex;
 justify-content: center;
-border-top:1px solid black ;
-
 }
 .left2
 {
     width: 50%;
     height: 100%;
-border-right: 1px solid black;
     display: flex;
     align-items: center;
     
@@ -123,7 +120,7 @@ font-size: 20px;
 .top2
 {
     font-size: 60px;
-  border-bottom: 1px solid black;
+ 
 }
 
 }
